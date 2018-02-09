@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is C892-DD05
+
+ Directory of E:\Git\Suresh
+
+09-02-2018  05:23 PM    <DIR>          .
+09-02-2018  05:23 PM    <DIR>          ..
+09-02-2018  05:23 PM                 0 Suri.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   2,907,635,712 bytes free
